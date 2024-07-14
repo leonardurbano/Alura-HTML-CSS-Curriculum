@@ -105,6 +105,9 @@ body{
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
     font-weight: 400;
+    position: absolute;
+    bottom:0%;
+    width: 100%;
 }
 
 
@@ -124,5 +127,12 @@ body{
 
     .apresentacao__conteudo{
         width: 100%;
+    }
+
+    .rodape{
+        position: relative;
+        font-size: 0.8rem;
+        text-align: center;
+        padding: 1.5% 0% 1.5% 0%;
     }
 }
