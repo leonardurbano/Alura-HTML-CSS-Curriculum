@@ -35,7 +35,7 @@ body{
     text-decoration: none;
 }
 .apresentacao{
-    padding: 3% 15%;
+    padding: 3% 5% 3% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -100,7 +100,7 @@ body{
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
-    padding: 18px;
+    padding: 18px 0px;
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
